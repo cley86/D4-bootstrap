@@ -1,0 +1,24 @@
+.roboto-light {
+  font-family: "Roboto", system-ui;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.roboto-medium {
+  font-family: "Roboto", system-ui;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.bg-verde {
+  background-color: #28a745;
+}
+
+.verde {
+  color: #28a745 !important;
+  text-decoration: none;
+}
+
+.gris {
+  background-color: #707070;
+}
